@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/Calc-V3.2/static/css/main.245d7d4f.css",
-    "main.js": "/Calc-V3.2/static/js/main.633be000.js",
+    "main.css": "/Calc-V3.2/static/css/main.20e42c7e.css",
+    "main.js": "/Calc-V3.2/static/js/main.b7fb927e.js",
     "static/media/mixkit-hard-pop-click-2364.wav": "/Calc-V3.2/static/media/mixkit-hard-pop-click-2364.90329493ac50795f809f.wav",
     "static/media/mixkit-message-pop-alert-2354.mp3": "/Calc-V3.2/static/media/mixkit-message-pop-alert-2354.e2e956cec8e665fdac87.mp3",
     "static/media/DIGITALDREAMFATSKEW.ttf": "/Calc-V3.2/static/media/DIGITALDREAMFATSKEW.f43b285e2e7a15b38bf8.ttf",
     "static/media/light_mode_black_24dp.svg": "/Calc-V3.2/static/media/light_mode_black_24dp.faa5054f62a3976d4e15aa4b7a4f9573.svg",
     "static/media/light_mode_white_24dp.svg": "/Calc-V3.2/static/media/light_mode_white_24dp.6038b760ac203a5427ebdcf26bf5536b.svg",
     "index.html": "/Calc-V3.2/index.html",
+    "static/media/volume_off.svg": "/Calc-V3.2/static/media/volume_off.6555429ea04d5151eb8511fa037f5f8b.svg",
     "static/media/dark_mode_black_24dp.svg": "/Calc-V3.2/static/media/dark_mode_black_24dp.fdb51e7c4ec36ce7cfc7ad965dfe4ab0.svg",
     "static/media/dark_mode_white_24dp.svg": "/Calc-V3.2/static/media/dark_mode_white_24dp.a76aff9a222a4780505e689c7257d6e5.svg",
-    "main.245d7d4f.css.map": "/Calc-V3.2/static/css/main.245d7d4f.css.map",
-    "main.633be000.js.map": "/Calc-V3.2/static/js/main.633be000.js.map"
+    "static/media/volume_up.svg": "/Calc-V3.2/static/media/volume_up.4da87911d9476779e726eceadeedaeb5.svg",
+    "main.20e42c7e.css.map": "/Calc-V3.2/static/css/main.20e42c7e.css.map",
+    "main.b7fb927e.js.map": "/Calc-V3.2/static/js/main.b7fb927e.js.map"
   },
   "entrypoints": [
-    "static/css/main.245d7d4f.css",
-    "static/js/main.633be000.js"
+    "static/css/main.20e42c7e.css",
+    "static/js/main.b7fb927e.js"
   ]
 }
